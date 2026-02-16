@@ -1,6 +1,6 @@
-Hey, I'm Ray! 👋
- 
-Welcome to my GitHub profile! I'm a final-year sixth-form student interested in maths and computer science. I'm currently learning Python and I'm working on a few personal projects.
+Hi, I'm Ray! 👋
+
+Welcome to my GitHub profile! I'm a first year undergraduate student studying Mathematics and Computer Science at the University of Bath.
 
 I'm always looking for new things to learn, so feel free to check out my repositories and get in touch if you have any questions or suggestions!
 
