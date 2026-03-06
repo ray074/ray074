@@ -1,6 +1,17 @@
 Hi, I'm Ray! 👋
 
-Welcome to my GitHub profile! I'm a first year undergraduate student studying Mathematics and Computer Science at the University of Bath.
+I'm a first-year Mathematics and Computer Science student at the University of Bath. 
+
+## What I'm working on
+
+- [HPC PageRank](../hpc-pagerank) High-Performance PageRank on Power-Law graphs
+
+## Interests
+
+- High-performance computing (HPC) and performance engineering
+- ML/Data engineering
+- Computational simulations
+- Cryptography
 
 I'm always looking for new things to learn, so feel free to check out my repositories and get in touch if you have any questions or suggestions!
 
