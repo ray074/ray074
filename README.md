@@ -2,18 +2,20 @@ Hi, I'm Ray! 👋
 
 I'm a first-year Mathematics and Computer Science student at the University of Bath. 
 
-## What I'm working on
+### What I'm working on
 
-- [HPC PageRank](../hpc-pagerank) High-Performance PageRank on Power-Law graphs
+- [HPC PageRank](../hpc-pagerank) - High-Performance PageRank on Power-Law graphs with tests and benchmarks
 
-## Interests
+### Interests
 
 - High-performance computing (HPC) and performance engineering
 - ML/Data engineering
 - Computational simulations
 - Cryptography
 
-I'm always looking for new things to learn, so feel free to check out my repositories and get in touch if you have any questions or suggestions!
+<br>
+
+Feel free to check out my repositories and get in touch if you have any questions or suggestions!
 
 <!--
 **ray074/ray074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
