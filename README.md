@@ -4,8 +4,8 @@ I'm a first-year Mathematics and Computer Science student at the University of B
 
 ### What I'm working on
 
-- [HPC PageRank](../hpc-pagerank) - High-Performance PageRank on Power-Law graphs with tests and benchmarks
-
+- [HPC PageRank](https://github.com/ray074/hpc-pagerank) - High-performance PageRank on Power-Law graphs with tests and benchmarks
+  
 ### Interests
 
 - High-performance computing (HPC) and performance engineering
