@@ -15,7 +15,7 @@ I'm a first-year Mathematics and Computer Science student at the University of B
 
 <br>
 
-Feel free to check out my repositories and get in touch if you have any questions or suggestions!
+Feel free to explore my repositories and reach out with any questions, feedback, or suggestions!
 
 <!--
 **ray074/ray074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
