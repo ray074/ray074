@@ -4,7 +4,6 @@ I'm a second-year Mathematics and Computer Science student at the University of 
 
 ### Interests
 
-- High-performance computing (HPC) and performance engineering
 - ML/Data engineering
 - Computational simulations
 - Cryptography
